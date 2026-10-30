@@ -1,0 +1,1 @@
+printf("VDD is %g\n" 1.8)
